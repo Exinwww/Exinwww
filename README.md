@@ -1,5 +1,6 @@
 ## To Be Somebody 👋
 
+- Aim High
 <!--
 **Exinwww/Exinwww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
