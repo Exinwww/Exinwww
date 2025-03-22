@@ -3,6 +3,8 @@
 - 🔭Aim High
 - 🤔Everything is Easy When Someone Tells How
 - 💬Ask Why and How
+- :muscle: Make progress every day
+- 📫
 <!--
 **Exinwww/Exinwww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
