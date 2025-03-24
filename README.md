@@ -1,8 +1,8 @@
 ## To Be Somebody 👋
 
-- 🔭Aim High
-- 🤔Everything is Easy When Someone Tells How
-- 💬Ask Why and How
+- 🔭 Aim High
+- 🤔 Everything is Easy When Someone Tells How
+- 💬 Ask Why and How
 - :muscle: Make progress every day
 - 📫 Reach me: zengyx53@mail2.sysu.edu.cn
 <!--
